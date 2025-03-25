@@ -1,0 +1,21 @@
+{
+  "name": "week3crud",
+  "version": "1.0.0",
+  "description": "CRUD PRACTICE",
+  "homepage": "https://github.com/raphaelgraceman/week3CRUD#readme",
+  "bugs": {
+    "url": "https://github.com/raphaelgraceman/week3CRUD/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelgraceman/week3CRUD.git"
+  },
+  "license": "ISC",
+  "author": "Dotse Raphael",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
